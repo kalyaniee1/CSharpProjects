@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\bin\Debug\Employee SRP.exe.config
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\bin\Debug\Employee SRP.exe
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\bin\Debug\Employee SRP.pdb
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\obj\Debug\Employee SRP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\obj\Debug\Employee SRP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\obj\Debug\Employee SRP.exe
+C:\Users\Admin\source\repos\Employee SRP\Employee SRP\obj\Debug\Employee SRP.pdb

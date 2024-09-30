@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\bin\Debug\net8.0\MovieAppDLL.deps.json
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\bin\Debug\net8.0\MovieAppDLL.dll
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\bin\Debug\net8.0\MovieAppDLL.pdb
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.dll
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\refint\MovieAppDLL.dll
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\MovieAppDLL.pdb
+C:\Users\Admin\source\repos\MovieAppDLL\MovieAppDLL\obj\Debug\net8.0\ref\MovieAppDLL.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCore/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620110643_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFRamework\\Migrations\\20240620110643_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|c:\\users\\admin\\source\\repos\\entityframework\\entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|solutionrelative:entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620105802_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFRamework\\Migrations\\20240620105802_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|c:\\users\\admin\\source\\repos\\entityframework\\entityframework\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|solutionrelative:entityframework\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|c:\\users\\admin\\source\\repos\\entityframework\\entityframework\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|solutionrelative:entityframework\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|c:\\users\\admin\\source\\repos\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1F8F41-F345-4F45-A1A4-7A9F5F3E7F87}|EntityFRamework\\EntityFRamework.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCore/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T11:07:18.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240620110643_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620110643_init.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Migrations\\20240620110643_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620110643_init.cs",
+              "RelativeToolTip": "EntityFRamework\\Migrations\\20240620110643_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:06:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240620105802_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620105802_init.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Migrations\\20240620105802_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Migrations\\20240620105802_init.cs",
+              "RelativeToolTip": "EntityFRamework\\Migrations\\20240620105802_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:58:02.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EntityFRamework\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAACgZWZmZmYkwBEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:25:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Models\\Manager.cs",
+              "RelativeToolTip": "EntityFRamework\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:23:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Models\\Employee.cs",
+              "RelativeToolTip": "EntityFRamework\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:23:02.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFRamework\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EntityFRamework\\EntityFRamework\\Program.cs",
+              "RelativeToolTip": "EntityFRamework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:21:18.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

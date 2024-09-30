@@ -1,0 +1,55 @@
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Admin\source\repos\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Admin\source\repos\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.Up2Date
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\obj\Debug\MovieApp.csproj.Up2Date
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieAppDLL1.dll
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieAppDLL1.pdb
+C:\Users\Admin\source\repos\MovieApp - Copy\MovieApp\bin\Debug\MovieAppDLL1.dll.config

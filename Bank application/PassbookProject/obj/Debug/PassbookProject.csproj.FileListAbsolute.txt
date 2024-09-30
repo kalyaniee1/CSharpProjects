@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Bank application\PassbookProject\bin\Debug\PassbookProject.exe.config
+C:\Users\Admin\source\repos\Bank application\PassbookProject\bin\Debug\PassbookProject.exe
+C:\Users\Admin\source\repos\Bank application\PassbookProject\bin\Debug\PassbookProject.pdb
+C:\Users\Admin\source\repos\Bank application\PassbookProject\obj\Debug\PassbookProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bank application\PassbookProject\obj\Debug\PassbookProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bank application\PassbookProject\obj\Debug\PassbookProject.exe
+C:\Users\Admin\source\repos\Bank application\PassbookProject\obj\Debug\PassbookProject.pdb

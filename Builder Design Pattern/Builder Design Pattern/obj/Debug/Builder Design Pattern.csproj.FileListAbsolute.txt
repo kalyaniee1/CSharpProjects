@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\Builder Design Pattern.exe.config
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\Builder Design Pattern.exe
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\Builder Design Pattern.pdb
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\Builder Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\Builder Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\Builder Design Pattern.exe
+C:\Users\Admin\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\Builder Design Pattern.pdb

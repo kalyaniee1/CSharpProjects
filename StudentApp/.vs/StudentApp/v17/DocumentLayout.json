@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\StudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B677D1C6-EB5D-425E-98CD-1E325E475CA9}|StudentApp\\StudentApp.vbproj|c:\\users\\admin\\source\\repos\\studentapp\\studentapp\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B677D1C6-EB5D-425E-98CD-1E325E475CA9}|StudentApp\\StudentApp.vbproj|solutionrelative:studentapp\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentApp\\StudentApp\\Module1.vb",
+              "RelativeDocumentMoniker": "StudentApp\\Module1.vb",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentApp\\StudentApp\\Module1.vb",
+              "RelativeToolTip": "StudentApp\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:09:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

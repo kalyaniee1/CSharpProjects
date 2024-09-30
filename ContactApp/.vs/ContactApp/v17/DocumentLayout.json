@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|C:\\Users\\Admin\\source\\repos\\ContactApp\\contactapp\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|C:\\Users\\Admin\\source\\repos\\ContactApp\\contactapp\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|C:\\Users\\Admin\\source\\repos\\ContactApp\\contactapp\\contactdetailsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\contactdetailsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|c:\\users\\admin\\source\\repos\\contactapp\\contactapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|C:\\Users\\Admin\\source\\repos\\ContactApp\\contactapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|C:\\Users\\Admin\\source\\repos\\ContactApp\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A9934A-71D0-426A-8E3B-28E1301406F2}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\UserManager.cs",
+              "RelativeDocumentMoniker": "ContactApp\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\UserManager.cs",
+              "RelativeToolTip": "ContactApp\\UserManager.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:41:20.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDetailsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\ContactDetailsManager.cs",
+              "RelativeDocumentMoniker": "ContactApp\\ContactDetailsManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\ContactDetailsManager.cs",
+              "RelativeToolTip": "ContactApp\\ContactDetailsManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:40:53.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\ContactManager.cs",
+              "RelativeDocumentMoniker": "ContactApp\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\ContactManager.cs",
+              "RelativeToolTip": "ContactApp\\ContactManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:40:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Contact.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\Contact.cs",
+              "RelativeToolTip": "ContactApp\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:48:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\User.cs",
+              "RelativeDocumentMoniker": "ContactApp\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\User.cs",
+              "RelativeToolTip": "ContactApp\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:48:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ContactApp\\ContactApp\\Program.cs",
+              "RelativeToolTip": "ContactApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:48:21.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

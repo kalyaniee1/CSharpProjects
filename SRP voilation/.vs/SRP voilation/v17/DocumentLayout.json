@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|c:\\users\\admin\\source\\repos\\srp voilation\\srp voilation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|solutionrelative:srp voilation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|c:\\users\\admin\\source\\repos\\srp voilation\\srp voilation\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|solutionrelative:srp voilation\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|c:\\users\\admin\\source\\repos\\srp voilation\\srp voilation\\printinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114B34F-5781-413D-A6B1-1BF0410A18EE}|SRP voilation\\SRP voilation.csproj|solutionrelative:srp voilation\\printinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\PrintInvoice.cs",
+              "RelativeDocumentMoniker": "SRP voilation\\PrintInvoice.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\PrintInvoice.cs",
+              "RelativeToolTip": "SRP voilation\\PrintInvoice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABQPRQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:19:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\Invoice.cs",
+              "RelativeDocumentMoniker": "SRP voilation\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\Invoice.cs",
+              "RelativeToolTip": "SRP voilation\\Invoice.cs",
+              "ViewState": "AQIAAB8AAAAAmJmZmZkrwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:09:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\Program.cs",
+              "RelativeDocumentMoniker": "SRP voilation\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SRP voilation\\SRP voilation\\Program.cs",
+              "RelativeToolTip": "SRP voilation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:08:29.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

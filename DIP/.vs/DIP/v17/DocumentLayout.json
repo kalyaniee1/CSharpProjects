@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|c:\\users\\admin\\source\\repos\\dip\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|solutionrelative:dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|c:\\users\\admin\\source\\repos\\dip\\dip\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|solutionrelative:dip\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|c:\\users\\admin\\source\\repos\\dip\\dip\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|solutionrelative:dip\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|c:\\users\\admin\\source\\repos\\dip\\dip\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|solutionrelative:dip\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|c:\\users\\admin\\source\\repos\\dip\\dip\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA715275-D352-45E2-8C49-399E39D661BF}|DIP\\DIP.csproj|solutionrelative:dip\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\FileLogger.cs",
+              "RelativeDocumentMoniker": "DIP\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\FileLogger.cs",
+              "RelativeToolTip": "DIP\\FileLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:17:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\DBLogger.cs",
+              "RelativeDocumentMoniker": "DIP\\DBLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\DBLogger.cs",
+              "RelativeToolTip": "DIP\\DBLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:17:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\TaxCalculator.cs",
+              "RelativeDocumentMoniker": "DIP\\TaxCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\TaxCalculator.cs",
+              "RelativeToolTip": "DIP\\TaxCalculator.cs",
+              "ViewState": "AQIAAAYAAADAzszMzMwgwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:16:49.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\ILogger.cs",
+              "RelativeDocumentMoniker": "DIP\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\ILogger.cs",
+              "RelativeToolTip": "DIP\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:13:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\Program.cs",
+              "RelativeDocumentMoniker": "DIP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DIP\\DIP\\Program.cs",
+              "RelativeToolTip": "DIP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:13:03.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

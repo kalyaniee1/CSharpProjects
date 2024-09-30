@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\labour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\labour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\iworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\iworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|c:\\users\\admin\\source\\repos\\interface segregation\\interface segregation\\ilunchinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB66A1-204B-42DD-A52D-7FFC1FAEAB33}|Interface segregation\\Interface segregation.csproj|solutionrelative:interface segregation\\ilunchinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILunchInterval.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\ILunchInterval.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\ILunchInterval.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\ILunchInterval.cs",
+              "RelativeToolTip": "Interface segregation\\ILunchInterval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:32:34.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWorkable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\IWorkable.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\IWorkable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\IWorkable.cs",
+              "RelativeToolTip": "Interface segregation\\IWorkable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:32:10.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Robot.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\Robot.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Robot.cs",
+              "RelativeToolTip": "Interface segregation\\Robot.cs",
+              "ViewState": "AQIAAAMAAABQLzMzMzMbwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:28:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labour.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Labour.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\Labour.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Labour.cs",
+              "RelativeToolTip": "Interface segregation\\Labour.cs",
+              "ViewState": "AQIAAAQAAAAALjMzMzMLwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:28:28.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\IWorker.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\IWorker.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\IWorker.cs",
+              "RelativeToolTip": "Interface segregation\\IWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:28:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Program.cs",
+              "RelativeDocumentMoniker": "Interface segregation\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface segregation\\Interface segregation\\Program.cs",
+              "RelativeToolTip": "Interface segregation\\Program.cs",
+              "ViewState": "AQIAAAYAAABAmJmZmZkiwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:36:44.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

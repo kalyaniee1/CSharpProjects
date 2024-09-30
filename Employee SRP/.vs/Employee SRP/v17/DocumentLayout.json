@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|C:\\Users\\Admin\\source\\repos\\Employee SRP\\employee srp\\humanresourcedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|solutionrelative:employee srp\\humanresourcedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|c:\\users\\admin\\source\\repos\\employee srp\\employee srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|solutionrelative:employee srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|C:\\Users\\Admin\\source\\repos\\Employee SRP\\employee srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|solutionrelative:employee srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|C:\\Users\\Admin\\source\\repos\\Employee SRP\\employee srp\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E97B93-DC8F-4C21-A633-FB5E0A083959}|Employee SRP\\Employee SRP.csproj|solutionrelative:employee srp\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Program.cs",
+              "RelativeDocumentMoniker": "Employee SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Program.cs",
+              "RelativeToolTip": "Employee SRP\\Program.cs",
+              "ViewState": "AQIAAAcAAACAMjMzMzMLwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:30:30.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Accounts.cs",
+              "RelativeDocumentMoniker": "Employee SRP\\Accounts.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Accounts.cs",
+              "RelativeToolTip": "Employee SRP\\Accounts.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:51:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HumanResourceDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\HumanResourceDepartment.cs",
+              "RelativeDocumentMoniker": "Employee SRP\\HumanResourceDepartment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\HumanResourceDepartment.cs",
+              "RelativeToolTip": "Employee SRP\\HumanResourceDepartment.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:35:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee SRP\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Employee SRP\\Employee SRP\\Employee.cs",
+              "RelativeToolTip": "Employee SRP\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:30:47.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.exe.config
+C:\Users\Admin\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.exe
+C:\Users\Admin\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.pdb
+C:\Users\Admin\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.exe
+C:\Users\Admin\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.pdb

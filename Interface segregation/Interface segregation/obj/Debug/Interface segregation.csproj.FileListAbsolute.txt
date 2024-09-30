@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\bin\Debug\Interface segregation.exe.config
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\bin\Debug\Interface segregation.exe
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\bin\Debug\Interface segregation.pdb
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\obj\Debug\Interface segregation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\obj\Debug\Interface segregation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\obj\Debug\Interface segregation.exe
+C:\Users\Admin\source\repos\Interface segregation\Interface segregation\obj\Debug\Interface segregation.pdb
